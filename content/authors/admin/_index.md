@@ -36,9 +36,6 @@ highlight_name: false
 title: Yuya Asano
 email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Yuya Asano is a Ph.D. Student in [Intelligent Systems Program](http://www.isp.pitt.edu/) at [University of Pittsburgh](https://www.pitt.edu/) His research interest lies in the intersection of natural language processing (NLP), human-computer interaction (HCI), and educational technology. He works on the application of NLP in the domain of education to make distant learning more interactive. He received BSc in [computer science](https://web.cs.toronto.edu/) at [University of Toronto](https://www.utoronto.ca/), Canada.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
