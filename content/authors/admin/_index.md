@@ -1,6 +1,6 @@
 ---
 role: Ph.D. Student in Intelligent Systems
-avatar_filename: img_3347.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
