@@ -1,8 +1,8 @@
 ---
 role: Ph.D. Student in Intelligent Systems
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include natural language processing (NLP),
+  human-computer interaction (HCI), and educational technology.
 interests:
   - Artificial Intelligence (in Education)
   - Human-Computer Interaction
@@ -36,6 +36,6 @@ highlight_name: false
 title: Yuya Asano
 email: yua17@pitt.edu
 ---
-Yuya Asano is a Ph.D. Student in [Intelligent Systems](http://www.isp.pitt.edu/) at [University of Pittsburgh](https://www.pitt.edu/). His research interest lies in the intersection of natural language processing (NLP), human-computer interaction (HCI), and educational technology. He works on the application of NLP in the domain of education to make distant learning more interactive and offer rich education to everyone regardless of their socioeconomic status. He received BSc in [computer science](https://web.cs.toronto.edu/) at [University of Toronto](https://www.utoronto.ca/), Canada.
+Yuya Asano is a Ph.D. Student in [Intelligent Systems](http://www.isp.pitt.edu/) at [University of Pittsburgh](https://www.pitt.edu/). His research interest lies in the intersection of natural language processing (NLP), human-computer interaction (HCI), and educational technology. He works on the application of NLP in the domain of education to make distance learning more interactive and offer rich education to everyone regardless of their socioeconomic status. He received BSc in [computer science](https://web.cs.toronto.edu/) at [University of Toronto](https://www.utoronto.ca/), Canada.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
