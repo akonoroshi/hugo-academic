@@ -19,10 +19,10 @@ social:
     link: https://scholar.google.com/citations?user=0k3K65YAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/akonoroshi/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/yuya-asano-441373124/
 organizations:
   - name: University of Pittsburgh
     url: https://www.pitt.edu
@@ -34,7 +34,7 @@ education:
 superuser: true
 highlight_name: false
 title: Yuya Asano
-email: ""
+email: yua17@pitt.edu
 ---
 Yuya Asano is a Ph.D. Student in [Intelligent Systems](http://www.isp.pitt.edu/) at [University of Pittsburgh](https://www.pitt.edu/). His research interest lies in the intersection of natural language processing (NLP), human-computer interaction (HCI), and educational technology. He works on the application of NLP in the domain of education to make distant learning more interactive and offer rich education to everyone regardless of their socioeconomic status. He received BSc in [computer science](https://web.cs.toronto.edu/) at [University of Toronto](https://www.utoronto.ca/), Canada.
 
