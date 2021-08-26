@@ -4,9 +4,9 @@ avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Artificial Intelligence (in Education)
+  - Human-Computer Interaction
+  - Natural Language Processing
 social:
   - icon: envelope
     icon_pack: fas
@@ -16,7 +16,7 @@ social:
     link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=0k3K65YAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
