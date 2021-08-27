@@ -10,7 +10,7 @@ authors:
 doi: 10.1145/3375462.3375511
 publication: Proceedings of the 10th International Conference on Learning
   Analytics & Knowledge
-publication_short: ""
+publication_short: LAK 2020
 abstract: >-
   In the context of online programming homework for a university course, we
   explore
