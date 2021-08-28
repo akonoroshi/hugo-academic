@@ -29,5 +29,5 @@ weight: 50
 title: Experience
 subtitle: null
 design:
-  columns: "2"
+  columns: "1"
 ---
