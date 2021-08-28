@@ -13,7 +13,7 @@ social:
     link: mailto:yua17@pitt.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/YuyaAsano47
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=0k3K65YAAAAJ
