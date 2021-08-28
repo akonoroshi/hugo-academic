@@ -8,7 +8,7 @@ url_video: ""
 date: 2016-04-27T00:00:00Z
 tags:
   - Deep Learning
-external_link: " "
+external_link: ""
 url_slides: ""
 links:
   - icon: twitter
