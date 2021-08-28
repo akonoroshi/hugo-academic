@@ -1,12 +1,12 @@
 ---
 widget: pages
-widget_id: posts
+widget_id: post
 headless: true
 weight: 60
 title: News
 subtitle: null
 content:
-  page_type: news
+  page_type: post
   count: 5
   filters:
     author: ""
